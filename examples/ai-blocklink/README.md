@@ -1,5 +1,7 @@
 # `<ai-blocklink>` Web Component example
 
+Execute this command bellow on Terminal
+
 ```bash
 python2 -m SimpleHTTPServer # Or another WebServer
 ```
