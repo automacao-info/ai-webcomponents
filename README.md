@@ -8,7 +8,7 @@ See the list of components below
 
 Click on the link and see the details. The problems of each component can be reported in its respective repository (Issues page).
 
-* ai-blocklink - [https://github.com/automacao-info/ai-blocklink] `<ai-blocklink>` is a simple and super lightweight web component to create block links.
+* [`<ai-blocklink>`](https://github.com/automacao-info/ai-blocklink) is a simple and super lightweight web component to create block links.
 
 
  
