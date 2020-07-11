@@ -1,5 +1,7 @@
 # ai-webcomponents
 
+![social media](https://repository-images.githubusercontent.com/278941642/dd6ab700-c3a5-11ea-93b9-bc2744369c0a)
+
 > Here you will see a list of WebComponents developed by [https://automacao.info](https://automacao.info)
 
 ## Web Components
