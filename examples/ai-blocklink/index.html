@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      background: #fafafa;
+    }
+  </style>
+  <link href="./card.css" rel="stylesheet" />
+</head>
+<body>
+<script type="module"
+        src="https://unpkg.com/@automacao.info/ai-blocklink?module">
+</script>
+<!-- Example Two blocks, one inside other -->
+<ai-blocklink class="card" main-link="h2 a">
+  <section>
+    <p class="date"><a href="javascript:teste()"><time datetime="2020-01-01">Jan 1, 2020</time></a></p>
+    <h2><a href="#title">&ltai-blocklink&gt Demo</a></h2>
+    <p>The current URL hash will be displayed here: <span id="hash"><span></p>
+  </section>
+  <ai-blocklink class="author-name">
+    <img src="https://via.placeholder.com/36.png/00F/888?text=JP">
+    <a href="#author">Author Name</a>
+  </ai-blocklink>
+  <footer class="tags">
+    <a class="category" href="#category_one">Category One</a>
+    <a class="tag" href="#tag_one">Tag One</a>
+    <a class="tag" href="#tag_two">Tag Two</a>
+  </footer>
+</ai-blocklink>
+<script>
+  function teste() {
+    alert("teste de link");
+  }
+</script>
+</body>
+</html>
