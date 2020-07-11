@@ -6,6 +6,11 @@
 
 ## Web Components
 
+The approach chosen in the Web Components development was as follows:
+* JavaScript vanilla for simple components
+* `lit-html` for more sophisticated components
+* `lit-element` for even more sophisticated components
+
 See the list of components below
 
 Click on the link and see the details. The problems of each component can be reported in its respective repository (Issues page).
