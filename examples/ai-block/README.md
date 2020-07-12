@@ -8,6 +8,6 @@ python2 -m SimpleHTTPServer # Or another WebServer
 
 Open http://localhost:8080/ in your browser
 
-You can see something two blocks with title and contents.
+You can see two blocks with title and contents like this image bellow
 
 ![View 02](view-02.png)
